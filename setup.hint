@@ -1,5 +1,5 @@
 category: Gnome Graphics
-requires: libexif12 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libintl8 libsoup2.4_1-2.34.2-1 libxml2
+requires: libexif12 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libintl8 libsoup2.4_1 libsoup-gnome2.4_1 libxml2
 sdesc: "GNOME Flickr uploader"
 ldesc: "Frogr is a small application for the GNOME desktop that allows 
 users to manage their accounts in the Flickr image hosting website. It 
