@@ -1,0 +1,13 @@
+inherit gnome2
+
+NAME="frogr"
+VERSION=0.8
+RELEASE=1
+CATEGORY="GNOME Graphics"
+SUMMARY="GNOME Flickr uploader"
+DESCRIPTION="Frogr is a small application for the GNOME desktop that allows
+users to manage their accounts in the Flickr image hosting website. It
+supports all the basic Flickr features, including uploading pictures, adding
+descriptions, setting tags and managing sets and groups pools."
+
+LDFLAGS+=" -Wl,--export-all-symbols"
