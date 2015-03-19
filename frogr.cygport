@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="frogr"
-VERSION=0.9
+VERSION=0.11
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="GNOME Flickr uploader"
