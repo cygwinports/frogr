@@ -1,7 +1,7 @@
-inherit gnome2
+inherit gnome.org meson
 
 NAME="frogr"
-VERSION=1.3
+VERSION=1.4
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="GNOME Flickr uploader"
